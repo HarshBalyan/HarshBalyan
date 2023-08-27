@@ -5,11 +5,11 @@ I am Computer Science(2010-2014) graduate from [Birla Institute of Technology, M
 
 [Elixir](https://github.com/elixir-lang/elixir) is my goto language for backend development.
 
-Open Source Contributions:
+### Open Source Contributions:
 1) [Flume](https://github.com/scripbox/flume) - Redis based background job processor
 1) [Ecto Query Plus](https://github.com/vasuadari/ecto_query_plus) - A friendly way of constructing SQL queries on top of Ecto ORM 
 
-Talks:
+### Talks:
 1) [Code BEAM Stockholm - 2020](https://codesync.global/speaker/harsh-balyan/) - Transitioning to new ways of deploying elixir applications and managing environment variables
 
 <!--
