@@ -10,7 +10,7 @@ Open Source Contributions:
 1) [Ecto Query Plus](https://github.com/vasuadari/ecto_query_plus) - A friendly way of constructing SQL queries on top of Ecto ORM 
 
 Talks:
-1) [Code BEAM Stockholm - 2020](https://codesync.global/speaker/harsh-balyan/)
+1) [Code BEAM Stockholm - 2020](https://codesync.global/speaker/harsh-balyan/) - Transitioning to new ways of deploying elixir applications and managing environment variables
 
 <!--
 **HarshBalyan/HarshBalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
